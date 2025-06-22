@@ -5,4 +5,6 @@ employment opportunities and streamline the hiring process for employers. With i
 innovative features and user-friendly interface, CareerHUB offers a comprehensive 
 solution to meet the needs of both job seekers and employers in today's competitive job 
 market. 
+\
+\
 [job portal readme.pdf](https://github.com/user-attachments/files/16600414/job.portal.readme.pdf)
